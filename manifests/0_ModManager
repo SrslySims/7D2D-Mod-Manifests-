@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+  <Name value="ModManager" />
+  <DisplayName value="Mod Manager" />
+  <Description value="Manage active and disabled mod folders from the Play Game menu." />
+  <Author value="Community" />
+  <Version value="1.0.0" />
+  <Website value="https://7daystodiemods.com/profiles/srsly" />
+  <SkipWithAntiCheat value="true" />
+  
+  <ModIcon value="Textures/modmanager_icon.png" />
+  <ModBanner value="Textures/modmanager_banner.png" />
+  <UpdateManifest value="https://raw.githubusercontent.com/SrslySims/7D2D-Mod-Manifests/main/manifests/zz_Srsly_BetterThirdPerson.xml" />
+  <Changelog value="Initial update manifest." />
+</xml>
