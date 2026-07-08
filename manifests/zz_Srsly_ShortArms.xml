@@ -5,7 +5,7 @@
   <Version value="1.0.1" />
   <GameVersion value="3.0.0" />
   <Author value="Srsly" />
-  <Website value="" />
+  <Website value="https://7daystodiemods.com/profiles/srsly" />
   <ModIcon value="Textures/icon.png" />
   <ModBanner value="Textures/banner.png" />
   <UpdateManifest value="https://raw.githubusercontent.com/SrslySims/7D2D-Mod-Manifests/main/manifests/zz_Srsly_ShortArms.xml" />
