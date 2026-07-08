@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModUpdate>
+  <Name value="zz_Srsly_ImmersiveRPGHUD" />
+  <DisplayName value="Srsly Immersive RPG HUD" />
+  <Version value="2.0.0" />
+  <GameVersion value="3.0.0" />
+  <Author value="Srsly" />
+  <DownloadUrl value="https://7daystodiemods.com/profiles/srsly" />
+  <Changelog value="Initial update manifest." />
+</ModUpdate>
