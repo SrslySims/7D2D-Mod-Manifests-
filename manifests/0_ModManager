@@ -8,8 +8,8 @@
   <Website value="https://7daystodiemods.com/profiles/srsly" />
   <SkipWithAntiCheat value="true" />
   
-  <ModIcon value="Textures/modmanager_icon.png" />
-  <ModBanner value="Textures/modmanager_banner.png" />
-  <UpdateManifest value="https://raw.githubusercontent.com/SrslySims/7D2D-Mod-Manifests/main/manifests/zz_Srsly_BetterThirdPerson.xml" />
+  <ModIcon value="Textures/icon.png" />
+  <ModBanner value="Textures/banner.png" />
+  <UpdateManifest value="https://raw.githubusercontent.com/SrslySims/7D2D-Mod-Manifests/main/manifests/0_ModManager.xml" />
   <Changelog value="Initial update manifest." />
 </xml>

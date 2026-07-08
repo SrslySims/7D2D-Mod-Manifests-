@@ -5,6 +5,11 @@
   <Version value="0.2.0" />
   <GameVersion value="3.0.0" />
   <Author value="Srsly" />
-  <DownloadUrl value="https://7daystodiemods.com/profiles/srsly" />
+  <Website value="https://7daystodiemods.com/profiles/srsly" />
+  <SkipWithAntiCheat value="true" />
+  
+  <ModIcon value="Textures/icon.png" />
+  <ModBanner value="Textures/banner.png" />
+  <UpdateManifest value="https://raw.githubusercontent.com/SrslySims/7D2D-Mod-Manifests/main/manifests/zz_Srsly_BeepBoopBuddy.xml" />
   <Changelog value="Initial update manifest." />
 </ModUpdate>
