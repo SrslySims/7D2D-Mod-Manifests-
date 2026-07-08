@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModUpdate>
+  <Name value="zz_Srsly_RideOrDie" />
+  <DisplayName value="Srsly's Ride or Die" />
+  <Version value="3.0.0" />
+  <GameVersion value="3.0.0" />
+  <Author value="Srsly" />
+  <DownloadUrl value="https://7daystodiemods.com/profiles/srsly" />
+  <Changelog value="Initial update manifest." />
+</ModUpdate>
