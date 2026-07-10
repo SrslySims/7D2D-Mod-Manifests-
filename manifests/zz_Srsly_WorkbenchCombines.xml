@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModUpdate>
+  <Name value="Srsly_WorkbenchCombines" />
+  <DisplayName value="Srsly Workbench Combines" />
+  <Version value="1.0.0" />
+  <GameVersion value="3.0.0" />
+  <Author value="Srsly" />
+  <Website value="https://7daystodiemods.com/profiles/srsly" />
+  <SkipWithAntiCheat value="true" />
+  <ModIcon value="Textures/icon.png" />
+  <ModBanner value="Textures/banner.png" />
+  <UpdateManifest value="" />
+  <Changelog value="Local test build." />
+</ModUpdate>
