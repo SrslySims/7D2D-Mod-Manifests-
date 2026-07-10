@@ -2,14 +2,16 @@
 <ModUpdate>
   <Name value="zz_Srsly_ConfettiCarnage" />
   <DisplayName value="Confetti Carnage" />
-  <Description value="Adds a weapon mod attachment that enables the vanilla celebration confetti kill effect." />
+  <Description value="Adds a weapon mod attachment that enables the vanilla celebration kill effect with configurable sound and confetti particles." />
   <Version value="1.0.0" />
   <GameVersion value="3.0" />
   <Author value="Srsly" />
   <Website value="https://7daystodiemods.com/profiles/srsly" />
-  <SkipWithAntiCheat value="false" />
+  <SkipWithAntiCheat value="true" />
   <ModIcon value="ModsManager/icon.png" />
   <ModBanner value="ModsManager/banner.png" />
   <UpdateManifest value="https://raw.githubusercontent.com/SrslySims/7D2D-Mod-Manifests/main/manifests/zz_Srsly_ConfettiCarnage.xml" />
+  <Changelog value="" />
 </ModUpdate>
+
 
