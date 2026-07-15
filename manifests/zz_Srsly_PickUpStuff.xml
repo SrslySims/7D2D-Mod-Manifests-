@@ -3,7 +3,7 @@
   <Name value="zz_Srsly_PickUpStuff" />
   <DisplayName value="Pick Up Stuff" />
   <Description value="Adds safe pickup interactions for workstations, player storage, POI lanterns, and fire barrels." />
-  <Version value="1.0.7" />
+  <Version value="1.0.11" />
   <GameVersion value="3.0" />
   <Author value="Srsly" />
   <Website value="https://7daystodiemods.com/profiles/srsly" />

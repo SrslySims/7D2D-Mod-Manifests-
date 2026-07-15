@@ -2,8 +2,8 @@
 <ModUpdate>
   <Name value="zz_Srsly_SmartDoors" />
   <DisplayName value="Smart Doors" />
-  <Description value="" />
-  <Version value="1.5.0" />
+  <Description value="Configurable door behavior: auto-close, auto-open, horn opening, open-door unlock fixes, and lockpicking for locked doors." />
+  <Version value="1.5.1" />
   <GameVersion value="3.0" />
   <Author value="Srsly" />
   <Website value="https://7daystodiemods.com/profiles/srsly" />

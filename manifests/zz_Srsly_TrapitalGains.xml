@@ -2,7 +2,7 @@
 <ModUpdate>
   <Name value="zz_Srsly_TrapitalGains" />
   <DisplayName value="Trapital Gains" />
-  <Description value="" />
+  <Description value="Adds trap ownership, trap kill XP, and configurable party or ally XP sharing." />
   <Version value="1.0.0" />
   <GameVersion value="3.0" />
   <Author value="Srsly" />

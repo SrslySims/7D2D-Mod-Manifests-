@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModUpdate>
   <Name value="zz_Srsly_RestAndFatigue" />
-  <DisplayName value="Rest and Fatigue" />
-  <Description value="" />
-  <Version value="1.0.10" />
+  <DisplayName value="Srsly Rest and Fatigue" />
+  <Description value="Long-press sleep, vote-to-sleep, optional Sit Happens rest recovery, fallback naps, coffee recovery, environmental fatigue, sleep quality, well-rested bonuses, consumable hooks, dawn zombie reset, sleep debug tools, and configurable fatigue pressure." />
+  <Version value="1.0.16" />
   <GameVersion value="3.0" />
   <Author value="Srsly" />
   <Website value="https://7daystodiemods.com/profiles/srsly" />

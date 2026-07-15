@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModUpdate>
   <Name value="zz_Srsly_ImmersiveRPGHUD" />
   <DisplayName value="Immersive RPG HUD" />
@@ -11,4 +11,5 @@
   <ModIcon value="ModsManager/icon.png" />
   <ModBanner value="ModsManager/banner.png" />
   <UpdateManifest value="https://raw.githubusercontent.com/SrslySims/7D2D-Mod-Manifests/main/manifests/zz_Srsly_ImmersiveRPGHUD.xml" />
+  <Changelog value="2.0.0 release for 7 Days To Die v3.0." />
 </ModUpdate>

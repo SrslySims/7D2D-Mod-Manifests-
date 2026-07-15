@@ -11,4 +11,5 @@
   <ModIcon value="ModsManager/icon.png" />
   <ModBanner value="ModsManager/banner.png" />
   <UpdateManifest value="https://raw.githubusercontent.com/SrslySims/7D2D-Mod-Manifests/main/manifests/zz_Srsly_SqueakyCleanSurvival.xml" />
+  <Changelog value="Updated for 7 Days To Die 3.0." />
 </ModUpdate>

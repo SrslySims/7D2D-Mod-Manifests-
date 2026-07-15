@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModUpdate>
   <Name value="zz_Srsly_RideOrDie" />
-  <DisplayName value="Ride or Die" />
-  <Description value="" />
+  <DisplayName value="Srsly's Ride or Die" />
+  <Description value="Configurable vanilla vehicle tweaks, balanced vehicle mods, dumpster bicycle loot, downhill bicycle assist, optional vehicle respawner, and optional Bdubs/Fluffy 3.0 compatibility. No drones." />
   <Version value="3.0.0" />
   <GameVersion value="3.0" />
   <Author value="Srsly" />

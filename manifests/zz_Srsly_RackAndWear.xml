@@ -2,13 +2,14 @@
 <ModUpdate>
   <Name value="zz_Srsly_RackAndWear" />
   <DisplayName value="Rack and Wear" />
-  <Description value="" />
+  <Description value="Outfit dresser and wearable preset tools for 7 Days To Die." />
   <Version value="3.0.0" />
-  <GameVersion value="3.0" />
+  <GameVersion value="3.0.0" />
   <Author value="Srsly" />
   <Website value="https://7daystodiemods.com/profiles/srsly" />
   <SkipWithAntiCheat value="true" />
   <ModIcon value="ModsManager/icon.png" />
   <ModBanner value="ModsManager/banner.png" />
   <UpdateManifest value="https://raw.githubusercontent.com/SrslySims/7D2D-Mod-Manifests/main/manifests/zz_Srsly_RackAndWear.xml" />
+  <Changelog value="Initial update manifest." />
 </ModUpdate>
